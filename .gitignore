@@ -68,9 +68,6 @@ vcpkg_installed/
 Testing/
 .cache/
 
-# Library files
-/lib/
-
 # Visual Studio
 .vs/
 *.vcxproj.user
