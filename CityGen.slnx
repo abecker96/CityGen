@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CityGen/CityGen.vcxproj" Id="ce89660e-e6f7-4c0d-ab6f-514cafcd29b2" />
+</Solution>
