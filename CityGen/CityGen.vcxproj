@@ -21,10 +21,16 @@
   <ItemGroup>
     <ClCompile Include="..\lib\glad\src\glad.c" />
     <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\shaders.cpp" />
     <ClCompile Include="src\window.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="include\shaders.h" />
     <ClInclude Include="include\window.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\shaders\standard.frag" />
+    <None Include="src\shaders\standard.vert" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
